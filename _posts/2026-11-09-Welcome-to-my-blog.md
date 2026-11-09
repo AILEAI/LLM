@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
 date: 2026-11-09
-bubuyier
 ---
+布布一二宝
